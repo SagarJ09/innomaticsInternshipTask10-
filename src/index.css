@@ -16,7 +16,7 @@ body::-webkit-scrollbar{
   justify-content: space-around;
   align-items: center;
   padding: 10px;
-  background-color:grey;
+  background-color: black;
 }
 
 .search_bar{
@@ -31,13 +31,13 @@ body::-webkit-scrollbar{
 .search_bar input{
   border: none;
   background-color: black;
-  color: black;
+  color: white;
   width: 400px;
 }
 
 .search_bar input::placeholder{
   font-weight: bold;
-  color: black;
+  color: white;
 }
 .search_bar input:focus{
   outline: none;
@@ -48,7 +48,7 @@ body::-webkit-scrollbar{
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  background-color: black;
+  background-color: grey;
 }
 .sub_bar .items{
   padding: 10px;
