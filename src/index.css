@@ -31,13 +31,13 @@ body::-webkit-scrollbar{
 .search_bar input{
   border: none;
   background-color: black;
-  color: white;
+  color: black;
   width: 400px;
 }
 
 .search_bar input::placeholder{
   font-weight: bold;
-  color: white;
+  color: black;
 }
 .search_bar input:focus{
   outline: none;
