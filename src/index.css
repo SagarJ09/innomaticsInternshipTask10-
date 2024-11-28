@@ -1,6 +1,6 @@
 body{
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
  
 }
 
@@ -16,7 +16,7 @@ body::-webkit-scrollbar{
   justify-content: space-around;
   align-items: center;
   padding: 10px;
-  background-color: rgb(70, 25, 113);
+  background-color:grey;
 }
 
 .search_bar{
@@ -48,7 +48,7 @@ body::-webkit-scrollbar{
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  background-color: blueviolet;
+  background-color: black;
 }
 .sub_bar .items{
   padding: 10px;
